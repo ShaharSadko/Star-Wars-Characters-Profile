@@ -1,0 +1,4 @@
+export const API_URL = 'https://swapi.co/api';
+export const SET_CHARACTERS = 'SET_CHARACTER';
+export const SET_SELECTED_CHARACTER = 'SET_SELECTED_CHARACTER';
+export const SET_SELECTED_CHARACTER_WORLD = 'SET_SELECTED_CHARACTER_WORLD';
